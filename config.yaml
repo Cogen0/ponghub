@@ -2,9 +2,25 @@ services:
   - name: "My Pages"
     endpoints:
       - url: "http://dkjdkj.tttttttttt.top"
+        headers:
+          User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+          Accept-Language: "zh-CN,zh;q=0.9,en;q=0.8"
       - url: "http://qweasdzxc.tttttttttt.top"
+        headers:
+          User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+          Accept-Language: "zh-CN,zh;q=0.9,en;q=0.8"
       - url: "http://aoei.tttttttttt.top"
+        headers:
+          User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+          Accept-Language: "zh-CN,zh;q=0.9,en;q=0.8"
       - url: "http://wdzzzyx.tttttttttt.top"
+        headers:
+          User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+          Accept-Language: "zh-CN,zh;q=0.9,en;q=0.8"
   - name: "My Services"
     endpoints:
       - url: "https://2024.ch3nyang.top/health"
